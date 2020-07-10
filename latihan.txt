@@ -1,2 +1,7 @@
 anjas dan adit ternyata tidak selalu bersama
+<<<<<<< HEAD
 ini editannya si adit sendiri
+=======
+editannya si fitra 
+ini editanya secukupnya
+>>>>>>> 4e9122f45ce4153ebe568977a8e7d856f4101809
